@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: brown;
+}
+
+img{
+    background-color:azure;
+}
+
+img:hover{
+   background-color: yellow;
+}
+
+.mango-love{
+    color:green;
+    font-family:cursive;
+    font-size:20x;
+}
+
+.avocado-hate{
+    color:red;
+    font-family:cursive;
+    font-size:20x;
+}
+
+.mango-image{
+    border-radius: 50%;
+    width: 200px;
+    
+}
+
+.avocado-image{
+    border-radius: 50%;
+    width: 200px;
+}
